@@ -1,8 +1,8 @@
-# Hi, I'm Sushmashree M 👋
+# Hi, I'm Sushmashree M 
 
-🎓 Forensic Science Student  
-🔎 Interested in Digital Forensics & Cybersecurity  
-🐍 Currently learning Python and cybersecurity concepts  
+Forensic Science Student  
+Interested in Digital Forensics & Cybersecurity  
+Currently learning Python and cybersecurity concepts  
 
 ## About Me
 
